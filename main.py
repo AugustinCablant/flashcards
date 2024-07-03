@@ -1,17 +1,23 @@
+#imports
 import tkinter as tk
 from tkinter import messagebox
+import pandas as pd 
 
+
+#data
+df = pd.read_csv('dataframe.csv')
+questions = [q for q in df['Question'].values]
+answers = [a for a in df['Rep'].values]
+
+#class
 class FlashcardsApp:
     def __init__(self, master):
         self.master = master
         self.master.title("Flashcards App")
         
         self.questions_answers = [
-            ("Question 1", "Answer 1"),
-            ("Question 2", "Answer 2"),
-            ("Question 3", "Answer 3"),
-            ("Question 4", "Answer 4"),
-            ("Question 5", "Answer 5")
+            (q, a)
+            for q,a in zip(questions, answers)
         ]
         
         self.current_card = 0
