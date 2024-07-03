@@ -1,0 +1,1218 @@
+,Question,Rep,type
+0,Nuisible,detrimental,voc
+1,Malencontreux,unfortunate,voc
+2,Inadapté,"unsuitable, inappropriate, inadequate",voc
+3,Mal conçu,ill-conceived,voc
+4,Mal pensu,ill-advised,voc
+5,facheux,unwelcome,voc
+6,immoral,"unethical, immoral",voc
+7,qui ne fonctionne pas,defective,voc
+8,déficient,deficient,voc
+9,malsain (chose),unhealthy,voc
+10,malsain (personne),"unscrupulous, evil-minded, dishonest",voc
+11,inefficace,"inefficient, ineffective",voc
+12,"peu pertinent, hors de propos",irrelevant,voc
+13,inutile,useless,voc
+14,insignifiant,insignificant,voc
+15,déplaisant,"unpleasant, disagreeable",voc
+16,pas durable,unsustainable,voc
+17,irréfléchi,short-sighted,voc
+18,faible,weak,voc
+19,rebutant,off-putting,voc
+20,bénéfique,"beneficial, advantageous, gainful, profitable",voc
+21,utile,"helpful, useful ",voc
+22,approprié,"suitable, appropriate",voc
+23,durable,sustainable,voc
+24,pérenne,long-lasting,voc
+25,sain,"healthy, fit",voc
+26,solide,"robust, sturdy",voc
+27,agréable,"pleasant, agreeable, satisfying",voc
+28,amusant,entertaining,voc
+29,fiable,reliable,voc
+30,à la hauteur,"up to par, up to standard",voc
+31,remarquable (chose),"remarkable, outstanding",voc
+32,remarquable (personne),"honourable, respectable, upstanding, trustworthy",voc
+33,"vrai, véridique",truthful,voc
+34,pertinent,relevant,voc
+35,exact,accurate,voc
+36,sans danger,"safe, harmless",voc
+37,significatif,meaningful,voc
+38,impressionnant,impressive,voc
+39,simple et net,clear-cut,voc
+40,simple et direct,straightforward,voc
+41,révolutionnaire,groundbreaking,voc
+42,travailleur,hardworking,voc
+43,les pieds sur terre,down-to-earth,voc
+44,juste,fair,voc
+45,impartial,unbiased,voc
+46,équilibré,balanced,voc
+47,expérimenté,"skilled, talented, experienced",voc
+48,entraîné,trained,voc
+49,dernier cri,state-of-the-art,voc
+50,remarquable,"striking, noteworthy",voc
+51,digne d'éloges,praiseworthy,voc
+52,convaincant,convincing,voc
+53,prometteur,"promising, encouraging",voc
+54,florissant,flourishing,voc
+55,prospère,thriving,voc
+56,qui a de la réussite,successful,voc
+57,de pointe,cutting-edge,voc
+58,performant,high-performing,voc
+59,stupéfiant,staggering,voc
+60,majeur,"key, major",voc
+61,une compagnie leader,a leading firm,voc
+62,d'importance majeur,of paramount importance,voc
+63,qui a de la valeur,valuable,voc
+64,qui a le bras long (avoir des relations),well-connected,voc
+65,rigoureux,stringent,voc
+66,de haut rang,high-ranking,voc
+67,puissant,powerful,voc
+68,influent,influential,voc
+69,principal,main,voc
+70,fondamental,"fundamental, crucial",voc
+71,significatif,significant,voc
+72,de poids ,weighty,voc
+73,mondialement ,worldwide,voc
+74,de taille (figuré),tremendous,voc
+75,de taille ,sizable,voc
+76,pour autant que je sois concerné,as far as I am concerned ,voc
+77,en guise de conclusion je dirais ,as a conclusion I would say ,voc
+78,selon moi ,in my view,voc
+79,pour ma part ,as for me ,voc
+80,je plaide en faveur de,I argue ,voc
+81,je crois,I believe,voc
+82,je suggère,I suggest,voc
+83,je trouve ,I find,voc
+84,ma réaction est ,my reaction is ,voc
+85,j'éprouve ,I feel,voc
+86,une réforme de large envergure,a sweeping reform,voc
+87,une chute,a sharp drop/decline,voc
+88,la grande majorité ,the vast majority,voc
+89,une somme importante,a hefty sum,voc
+90,une priorité essentielle,a top priority,voc
+91,des mesures sévères,tough measures,voc
+92,un emploi à salaire élevé ,a high-paying job,voc
+93,un bel avenir ,a bright future,voc
+94,des mesures radicales,drastic measures,voc
+95,une critique constructive,constructive criticism,voc
+96,une victoire écrasante,an overwhelming victory,voc
+97,un partisan convaincu de ,a staunch supporter of ,voc
+98,une entreprise en plein essor ,a booming business,voc
+99,des perspectives prometteuses ,rosy prospects ,voc
+100,un exemple parlant,a telling example ,voc
+101,un argument très convaincant,a compelling point ,voc
+102,un problème endémique,a rampant problem,voc
+103,un travail à bas salaire,a low-wage job,voc
+104,travailleur non-qualifié,unskilled labour,voc
+105,une critique mordante,scathing criticism,voc
+106,les dures réalités de ,the harsh realities of ,voc
+107,qui attise la peur,fearmongering,voc
+108,concurrence acharnée,cut-throat competition,voc
+109,une défaite écrasante,a crushing defeat,voc
+110,en difficulté,a struggling business,voc
+111,une réaction molle,a weak response,voc
+112,être sujet de discussion ,to be food for debate,voc
+113,matière à réflexion ,food for thought ,voc
+114,résister à la tendance,to buck the trend,voc
+115,être passé de mode,to be a thing of the past,voc
+116,être entré dans les moeurs ,to be here to stay ,voc
+117,cela remonte à l'origine de ,it may be traced back to ,voc
+118,prendre conscience de ce que ,to wake up to the fact that ,voc
+119,sensibiliser l'opinion publique à ,to raise awareness to ,voc
+120,diffuser l'information sur ,to spread the word about sth ,voc
+121,comprendre pleinement ,to grasp sth fully ,voc
+122,il en va de même pour ,the same goes for ,voc
+123,cette idée ne résiste pas à l'analyse,this idea doesn't stand up to analysis,voc
+124,être un excellent exemple ,to be a case in point ,voc
+125,c'est la grande inconnue ,it's anyone's guess,voc
+126,ce n'est qu'un rêve incensé,it's just a pipe dream,voc
+127,être impuissant face à,to be helpless when faced with,voc
+128,être partagé au sujet de ,to have mixed feelings about,voc
+129,il y a deux façons de voir les chosess,there are two ways of looking at this,voc
+130,être du même avis,to take the same view,voc
+131,être d'un autre avis ,to take a different view,voc
+132,cela prouve bien que ,it goes to show that ,voc
+133,pour parler franchement ,the truth of the matter is that ,voc
+134,servir de leçon à ,to teach someone a lesson ,voc
+135,la chose essentielle à retenir est que ,the one thing to remember is that ,voc
+136,il y a tout avantage à ,there is a lot to be said for ,voc
+137,ce que l'avenir réserve à ,to be in store for ,voc
+138,déraper,to get out of hand ,voc
+139,s'avouer vaincu ,to admit defeat ,voc
+140,relativiser qqc,to put sth into perspective ,voc
+141,être diamétralement opposé ,to be poles apart,voc
+142,ne pas se mêler d'un problème,to wash one's hands of something ,voc
+143,être la dernière goutte ,to be the last straw,voc
+144,il y a urgence ! ,the clock is ticking ! ,voc
+145,"arrêter le temps, revenir en arrière",to turn back the clock,voc
+146,manquer de temps ,to run out of time ,voc
+147,la perspective menaçante de ,the looming spectre of ,voc
+148,une épée à double tranchant ,a double-edged sword ,voc
+149,une solution miracle à ,a silver bullet for sth ,voc
+150,trouver un juste équilibre ,to strike a proper balance ,voc
+151,le juste milieu ,a happy medium ,voc
+152,jouer les apprentis sorciers ,to play God (with ...),voc
+153,n'être qu'un simple rouage dans le système ,to be a mere cog ine the machine ,voc
+154,monter l'échelle sociale ,to climb the social ladder ,voc
+155,monter l'échelle économique ,to climb the economic ladder ,voc
+156,monter l'échelle de l'entreprise ,to climb de corporate ladder,voc
+157,être au sommet de l'échelle sociale ,to be on the top rung of the social ladder ,voc
+158,être au bas de l'échelle sociale ,to be on the bottom rung of the social ladder,voc
+159,combler un écart,to bridge the gap,voc
+160,élargir un écart ,to widen a gap,voc
+161,un large écart entre ,a wide gap between,voc
+162,un lien étroit entre ,a close link between,voc
+163,franchir les barrières culturelles,to cross the cultural divide,voc
+164,être sur un pied d'égalité ,to be on an equal footing,voc
+165,le minimum vital ,the bare necessities of life ,voc
+166,être mal en point ,to be in bad shape,voc
+167,remettre les pendules à l'heure quand à qqc,to set the record straight on sth ,voc
+168,un principe fondamental ,a core tenet,voc
+169,une pierre angulaire de ,a cornerstone ,voc
+170,un pilier de ,a pillar of ,voc
+171,la dimension sacrée de ,the sanctify of ,voc
+172,jouer un rôle clef dans ,to take an active part in / to play a major role in,voc
+173,dépasser les limites de ,to overstep the boundaries of ,voc
+174,être la chasse gardée de ,to be the preserve of ,voc
+175,le retour de bâton ,the backlash,voc
+176,pour le bien de ,for the sake of ,voc
+177,du soir au matin ,from dawn to dusk ,voc
+178,toute sa vie ,from cradle to grave ,voc
+179,à bout ,to be led to the end of one's rope,voc
+180,inacceptable,to be beyond the pale ,voc
+181,faire la source oreille à ,to turn a blind eye to ,voc
+182,tourner le dos à ,to turn one's back ON,voc
+183,être profondément ancré dans ,to be deeply rooted in ,voc
+184,un moment charnière ,a watershed moment ,voc
+185,un tournant décisif ,a turning-point,voc
+186,un point de bascule ,a tipping point ,voc
+187,un point de repère ,a landmark,voc
+188,un évènement majeur ,a milestone ,voc
+189,au milieu de ,in the midst of ,voc
+190,suite à ,in the wake of ,voc
+191,à la veille de ,on the eve of ,voc
+192,l'avènement de ,the dawn of ,voc
+193,à l'avant-garde,at the vanguard of ,voc
+194,l'âge d'or ,the heyday ,voc
+195,marquer le début d'une ère nouvelle ,to usher in a new era ,voc
+196,ouvrir la voie à ,to pave the way for ,voc
+197,être une porte ouverte à ,to be an open door to ,voc
+198,un pionnier ,a trailblazer ,voc
+199,exercer de l'influence ,to wield some clout on,voc
+200,la vue d'ensemble ,the big picture ,voc
+201,un exploit ,a feat of ,voc
+202,ne pas être un mince exploit ,to be no small feat,voc
+203,"faire deux poids, deux mesures ",to apply a double standard,voc
+204,un fléau ,"a scourge, a bane ",voc
+205,un fardeau ,a burden ,voc
+206,soulager qqn d'un fardeau ,to lift a burden off someone's shoulders ,voc
+207,les défauts  ,the shortcomings,voc
+208,un inconvénient,a drawback ,voc
+209,porter le fardeau de ,to be burdened with ,voc
+210,un mouton noir ,a bad apple ,voc
+211,une entrave,an hindrance to sth,voc
+212,sans entrave ,unfettered ,voc
+213,sans entrave ,unhindred,voc
+214,omniprésent ,ubiquitous ,voc
+215,vide de sens ,devoid of meaning ,voc
+216,une violation de ,an infringement on/of ,voc
+217,n'avoir rien à voir avec ... ,to have little to do with ,voc
+218,être en jeu ,to be at stake ,voc
+219,avoir des chances de ,to be likely to ,voc
+220,avoir peu de chance de ,to be unlikely to ,voc
+221,les premiers stades de ,the early stages of ,voc
+222,corriger un mythe ,to debunk a myth ,voc
+223,une erreur courante ,a common misconception ,voc
+224,donner le feu vert ,to give the green light ,voc
+225,payer qqc très cher (au sens figuré),to pay a high price for ,voc
+226,n'avoir rien à perdre ,to have nothing to lose ,voc
+227,être au niveau ,to be up to par,voc
+228,mettre en évidence ,to put in the spotlight ,voc
+229,avec le recul ,with the benefit of hindsight,voc
+230,soulever un tollé,to raise a public outcry,voc
+231,"bouleversement, crise",upheaval ,voc
+232,susciter le mécontentement,to stir up discontent,voc
+233,mettre le feu aux poudres ,to stir up a hornet's nest,voc
+234,la jungle du quotidien,the rat race,voc
+235,se tromper de cible ,to bark up the wrong tree ,voc
+236,travailler jusqu'à épuisement ,to work one's fingers to the bone ,voc
+237,vieux comme le monde ,age-old ,voc
+238,l'expérience prouve que ,if history is any indication ,voc
+239,à son tour ,in turn ,voc
+240,être livré à soi-même ,to be left to one's devices ,voc
+241,une épave ,a wreck ,voc
+242,causer des ravages sur ,to wreak havoc on ,voc
+243,être enclin à ,to be prone to ,voc
+244,atteindre le point de non-retour ,to reach one's tipping point,voc
+245,négocier la délicate limite entre ... et ,to walk the thin line between ... and ,voc
+246,dépasser les bornes ,to cross a line ,voc
+247,où est la limite ? ,where to draw the line ?,voc
+248,tirer un trait sur le passé,to draw a line over the past ,voc
+249,un moindre mal ,a lesser evil ,voc
+250,pour le bien de qqn ,for someone's own good ,voc
+251,desserrer/resserrer les cordons de la bourse ,to tighten/loosen the purse strings ,voc
+252,avoir le droit à ,to be entitled to ,voc
+253,être pénible et compliqué ,to be a hassle ,voc
+254,subvenir aux besoins de ,to meet the needs of ,voc
+255,être comme une gifle ,to feel like a slap in the face ,voc
+256,aux dépens de ,at the expense of ,voc
+257,être fier de ,to take pride in ,voc
+258,une solution toute faite ,a ready-made solution ,voc
+259,être sur la pente descendante ,to go downhill,voc
+260,un engrenage infernal,a slippery slope ,voc
+261,ne pas tenir la route ,not to hold water ,voc
+262,jeter un éclairage sur ,to shed light on ,voc
+263,dresser un tableau à multiples facettes ,to paint a kaleidoscopic picture of ,voc
+264,être le témoin de ,to bear witness to ,voc
+265,fournir une explication à ,to provide an explanation for ,voc
+266,vivre dans la peur ,to live in fear ,voc
+267,mettre le doigt sur le noeud du problème ,to put one's finger on a problem ,voc
+268,mettre le doigt sur le noeud du problème ,to pinpoint the problem ,voc
+269,filer entre les doigts ,to slip through one's hands ,voc
+270,"souvent, pour ne pas dire toujours ",more often than not ,voc
+271,après coup ,after the fact ,voc
+272,tirer la sonnette d'alarme,to sound the alarm ,voc
+273,sonner le glas ,to sound the knell ,voc
+274,soit-disant ,supposedly ,voc
+275,la fin justifie les moyens ,the end justifies the means,voc
+276,faire la une des journaux ,to hit the headlines ,voc
+277,on fait beaucoup de bruit autour de ,there is a lot of media hyper around ,voc
+278,faire parler de soi dans les medias ,to make the news ,voc
+279,être digne de la une des journaux ,to be front-page news ,voc
+280,un havre de paix ,a safe haven ,voc
+281,un appel ,a call for ,voc
+282,être un appel au secours ,to be a cry for help ,voc
+283,grandeur et decadence de ,the rise and fall of ,voc
+284,dans un avenir pas si lointain,in the near future ,voc
+285,amener le changement,to bring about changes ,voc
+286,vendre au plus offrant ,to sell to the highest bidder,voc
+287,être sur le point de ,to be on the verge of ,voc
+288,avoir des effets concrets,to make a difference ,voc
+289,être sur la bonne voie ,to be on the right track ,voc
+290,n'en être qu'à ses prémices ,to be in one's infancy ,voc
+291,être une évidence ,to be a no-brainer ,voc
+292,partir de rien,to start from scratch,voc
+293,certes ,granted ,voc
+294,encore moins,let alone ,voc
+295,"atteindre son rythme de croisière, accélérer",gto gain momentum ,voc
+296,se positionner personnellement,to take a personal stand ,voc
+297,avoir son mot à dire,to have a say ,voc
+298,pas de sitôt ,not anytime soon ,voc
+299,avancer prudemment,to tread lightly ,voc
+300,sans hésitation,without a second thoughts ,voc
+301,un système de santé à deux vitesses ,a two-tier healthcare system ,voc
+302,une école au sommet du tableau,a top-tier school ,voc
+303,faire le jeu de ,to play right into the hands of ,voc
+304,"être au point mort, dans une impasse ",to be at standstill ,voc
+305,tomber dans une impasse,to reach a deadlock ,voc
+306,piétiner les droits de qqn,to trample so's rights ,voc
+307,chercher à corriger un problème par l'argent,to throw money at a problem ,voc
+308,s'acheter une bonne conscience ,to buy oneself a clear conscience ,voc
+309,être une solution de facilité ,to be an easy way out ,voc
+310,se charger personnellement de qqc ,to take into one's own hands ,voc
+311,mettre tout le monde au même niveau ,to level the playing field ,voc
+312,faire un pas en avant ,to take a step forward ,voc
+313,sur le long terme ,in the long run ,voc
+314,l'aspect positif de tout problème ,the silver lining,voc
+315,un écueil ,a pitfall,voc
+316,un atout ,an asset,voc
+317,prendre ses désirs pour des réalités ,to be mere wishful thinking,voc
+318,un bourbier ,a quagmire,voc
+319,craindre le pire ,to fear the worst ,voc
+320,ternir l'image de ,to tarnish the image of ,voc
+321,la base populaire ,the grassroots,voc
+322,les temps ont changé ,times have changed ,voc
+323,être en faillite ,to be on one's last legs ,voc
+324,faire honneur à ,to do someone justice ,voc
+325,dans un état de bienheureuse ignorance ,in blissful ignorance,voc
+326,être parfaitement ignorant de qqc,to be blissfully unaware of sth ,voc
+327,se dérouler / se manifester sur deux niveaux,to play out on two levels ,voc
+328,contraster fortement ,to stand in sharp contrast with ,voc
+329,ne pas pouvoir échapper à,to be bound to + BV ,voc
+330,faire un parallèle avec ,to draw a parallel with ,voc
+331,attirer l'attention sur ,to draw attention to ,voc
+332,aller main dans la main avec ,to go hand in hand with ,voc
+333,au bout du compte ,at the end of the day ,voc
+334,"carrément, franchement ",outright ,voc
+335,rien qu'en cliquant sur la souris ,at the click of a mouse ,voc
+336,être clair comme de l'eau de roche ,to be crystal-clear ,voc
+337,affecter très péniblement,to take one's toll / to take a heavy toll ,voc
+338,dans un avenir prévisible ,for the foreseeable future ,voc
+339,mener une lutte âpre contre ,to wage war on ...,voc
+340,se remettre sur pieds ,to get back one's feet ,voc
+341,prendre qqc à la légère,to take sth idly ,voc
+342,manifester un intérêt de pure forme à qqc ,to pay lip service to sth ,voc
+343,réussir avec brio ,to pass with flying colours,voc
+344,être en tête de liste ,to be first in line ,voc
+345,gagner du terrain,to gain ground ,voc
+346,perdre du terrain ,to lose ground ,voc
+347,les mauvaises habitudes ont la vie dure ,old habits die hard,voc
+348,la fin justifie les moyens ,the end justifies the means ,voc
+349,être les plus touchés par ,to bear the brunt of ,voc
+350,lorsqu'il s'agit de ,when it comes to ,voc
+351,,,voc
+352,refonte,overhaul,voc
+353,période d'arrêt ,downtime,voc
+354,remise ,remittance,voc
+355,travail acharné ,drudgery,voc
+356,"courant, répandu",rife,voc
+357,bazarder ,chuck out ,voc
+358,surnommer ,to dub ,voc
+359,abroger ,to repeal,voc
+360,revenir sur ses pas ,backtrack on sth,voc
+361,scélérat ,villain,voc
+362,ébranler ,to sideswipe sb,voc
+363,imposer qqc à qqn ,to thrust sth on sb ,voc
+364,,,voc
+365,Pourquoi utiliser 'one' ?,"Utilisé dans le style journalistique, 'one' permet d'avancer une opinion en douceur.",voc
+366,on peut penser que ,one is inclined to believe that ,voc
+367,on ne peut pas cautionner ...,one can't condone ...,voc
+368,on peut se demander si ,one may wonder whether ,voc
+369,on pourrait conclure en disant que ,one may sum up by saying that,voc
+370,on doit reconnaître que,one must admit that ,voc
+371,on peut dire que ,it is possible to say ,voc
+372,on peut argumenter que ,it could be argued that,voc
+373,il faut rappeler que ,it is necessary to point out that ,voc
+374,il est évident que ,it is obvious that,voc
+375,on comprend que ,it is understandable that,voc
+376,il ne fait aucun doute que ,there is no doubt that,voc
+377,on ne peut nier que ,there is no denying that ,voc
+378,on pourrait craindre que ,there would be reason for fear that ,voc
+379,le fait est que ,the point is that ,voc
+380,c'est une évidence de dire à propos de ... que ...,the obvious point to make about ... is that ...,voc
+381,tout porte à croire que ,the evidence suggests that ,voc
+382,ce qui est étonnant ,the puzzling fact is that,voc
+383,il semblerait que ,it seems that,voc
+384,dit-on',it has been said,voc
+385,on a estimé que ,it has been estimated that ,voc
+386,on fera particulièrement attention à ...,particular notice must be taken of ...,voc
+387,on reconnaît généralement que ...,it is universally acknowledged that ...,voc
+388,plus ou moins,more or less,voc
+389,il est vrai que ,admittedly,voc
+390,on peut soutenir que ,arguably,voc
+391,"à l'évidence, manifestement",clearly,voc
+392,à peine ,hardly,voc
+393,en général,generally speaking,voc
+394,en général ,on the whole,voc
+395,paradoxalement,ironically,voc
+396,"légitimement, à juste titre",justifiably,voc
+397,évidemment,obviously,voc
+398,probablement,possibly,voc
+399,comme on pouvait s'y attendre,predictably,voc
+400,malheureusement,sadly,voc
+401,malheureusement,unfortunately,voc
+402,jusqu'à un certain point,to some extent,voc
+403,soit disant,supposedly,voc
+404,il faut dire que ,to be sure,voc
+405,naturellement,understandably,voc
+406,certainement,surely,voc
+407,avec force,strongly,voc
+408,,,voc
+409,,,voc
+410,,,voc
+411,annoncer l'arrivée de ,to be the herald of ,voc
+412,être fin prêt à ,be poised to + BV ,voc
+413,se ranger du côté de ,to side with ,voc
+414,éviter ,to dodge ,voc
+415,être éclipsé par ,to be dwarfed by ,voc
+416,critiquer sans ménagement,to lambast ,voc
+417,lever le voile sur ,to unfold ,voc
+418,illustrer parfaitement ,to epitomize ,voc
+419,prospérer ,to thrive ,voc
+420,empiéter sur ,to infringe on,voc
+421,résister à,to withstand,voc
+422,"dépendre de, reposer sur ",to hinge on ,voc
+423,se résumer à ,to boil down to ,voc
+424,se retourner contre soi ,to backfire ,voc
+425,être responsable de qqc,to blame someone for sth ,voc
+426,faire marche arrière sur ,to backpedal on sth ,voc
+427,épargner ,to spare ,voc
+428,"gêner, freiner ",to hinder ,voc
+429,rattraper ,to catch up with ,voc
+430,être à la traîne ,to lag behind ,voc
+431,se maintenir au niveau de ,to keep up with ,voc
+432,perser plus lourd que ,to outweigh ,voc
+433,courir plus vite que ,to outrun ,voc
+434,être plus nombreux que ,to outnumber ,voc
+435,faire mieux que ,to outperform ,voc
+436,faire étalage de ,to showcase ,voc
+437,finir par ,to end up ,voc
+438,faire boule de neige ,to snowball ,voc
+439,baillonner ,to gag ,voc
+440,susciter ,to be met with ,voc
+441,estimer ,to deem,voc
+442,être le fer de lance de ,to spearhead ,voc
+443,équivaloir à ,to amount to ,voc
+444,s'effondrer ,"to collapse, to crash ",voc
+445,monter peu à peu ,to creep up ,voc
+446,baisser progressivement,to diminish,voc
+447,baisser imperceptiblement,to edge down ,voc
+448,fléchir ,to fall off ,voc
+449,varier ,to fluctuate ,voc
+450,atteindre son niveau le plus haut ,to hit an all-time high ,voc
+451,atteindre son niveau le plus bas ,to hit an all-time low ,voc
+452,se stabiliser ,to level off,voc
+453,atteindre un plateau ,to reach a plateau ,voc
+454,se redresser ,to pick up ,voc
+455,être en chute libre ,"to plummet, to plunge ",voc
+456,atteindre un sommet,to reach a peak ,voc
+457,être en hausse ,to be on the rise ,voc
+458,augmenter de façon régulière ,to rise steadily ,voc
+459,monter en flèche ,to skyrocket ,voc
+460,croître à toute vitesse ,to mushroom ,voc
+461,monter soudainement ,to spurt ,voc
+462,réduire qqc ,to scale down ,voc
+463,"les affairistes, les magouilleurs ",the wheelers-and-dealers,voc
+464,les décideurs,the movers and shakers ,voc
+465,la confiance ,the trust and confindence of the people ,voc
+466,la morosité ,doom and gloom ,voc
+467,l'ordre public ,law and order ,voc
+468,"le faste, l'apparat ",the pomp and pageantry ,voc
+469,être la grande fierté de ,to be the pride and joy of ,voc
+470,"à notre époque, de nos jours ",in this day and age ,voc
+471,le rythme frénétique ,the hustle and bustle ,voc
+472,pouvoir se reposer tranquillement ,to have some peace and quiet ,voc
+473,peser le pour et le contre ,to weigh up the pros and cons ,voc
+474,"les rouages, le fonctionnement pratique ",the nuts and blots ,voc
+475,tous les coins et recoins de ,all the nools and crannies of ,voc
+476,les riches et les pauvres ,the haves and the have-nots ,voc
+477,être indissociable de ,to be part and parcel of ,voc
+478,"les meilleurs, les sommités ",the great and good ,voc
+479,les célébrités ,the rich and famous ,voc
+480,rare ,to be few and far between,voc
+481,en avoir assez de ,to be sick and tired of ,voc
+482,être sain et sauf ,to be safe and sound ,voc
+483,être bien vivant ,to be alive and well ,voc
+484,une méthode testée et approuvée,a tried-and-true method ,voc
+485,globalement ,by and large ,voc
+486,sans anicroche ,smooth and seamless,voc
+487,une entreprise ,a firm,voc
+488,PME,smal and medium-sized businesses,voc
+489,une grosse société ,a corporation ,voc
+490,faire des bénéfices,to make profits ,voc
+491,rentable ,profitable ,voc
+492,compétitivité ,competitiveness,voc
+493,investir ,to invest ,voc
+494,se développer ,to expand ,voc
+495,un actionnaire ,a shareholder ,voc
+496,réduire les effectifs ,to downsize ,voc
+497,gérer une entreprise ,to run a business ,voc
+498,une offre publique d'achat ,a takeover bid,voc
+499,un entrepreneur,an entrepreneur ,voc
+500,la bourse ,the stock market ,voc
+501,capital-risque ,venture capital,voc
+502,l'esprit d'entreprise ,entrepreneurship ,voc
+503,comptabilité ,accounting,voc
+504,être en grève ,to be on strike ,voc
+505,impôt sur les sociétés ,corporate tax,voc
+506,subventionner ,to subsidize,voc
+507,faire faillite ,to go bankrupt,voc
+508,l'informatique ,computer science ,voc
+509,un jeu vidéo ,a video game ,voc
+510,une touche ,a key ,voc
+511,ordinateur (bureau / portable),"a computer (desktop, laptop)",voc
+512,les technologies de l'information ,information technology ,voc
+513,un informaticien ,computer scientist ,voc
+514,informatiser ,to computerize ,voc
+515,une puce électronique ,a chip ,voc
+516,numérique ,digital ,voc
+517,numériser ,to digitize ,voc
+518,un disque dur ,a hard disk ,voc
+519,une imprimante,a printer,voc
+520,copier-coller ,to cut and paste ,voc
+521,effacer ,to delete ,voc
+522,trier ,to sort,voc
+523,un logiciel ,a software programme ,voc
+524,mettre à jour ,to update ,voc
+525,un traitement de texte ,a word processor,voc
+526,des logiciels gratuits ,freeware,voc
+527,un octet ,a byte ,voc
+528,un méga-octet ,a megabyte,voc
+529,le changement climatique ,climate change ,voc
+530,un climatologue ,a climate scientist ,voc
+531,le réchauffement climatique ,global warming ,voc
+532,émettre du dioxyde de carbone , to emit carbon dioxide ,voc
+533,les rejets de gaz à effet de serre ,greenhouse gases emissions ,voc
+534,réduire son empreinte carbone,to cut / to curb / to reduce one's carbon imprint / footprint,voc
+535,prévoir ,to forecast ,voc
+536,inoncder ,to flood,voc
+537,la surconsommation,overconsumption ,voc
+538,niveau de la mer ,sea level ,voc
+539,au-dessus ,above ,voc
+540,nocif ,harmful ,voc
+541,être en danger ,to be at risk,voc
+542,banquise ,icefield,voc
+543,fondre ,to thaw ,voc
+544,nappe phréatique ,ground water,voc
+545,taxe verte ,green tax ,voc
+546,isoler ,to insulate ,voc
+547,le commerce des droits d'émissions du carbone ,carbon trading ,voc
+548,pôle Nord / Sud ,the North / South Pole,voc
+549,une élévation du niveau de la mer ,a rise in sea level ,voc
+550,une carrière ,a career ,voc
+551,le monde du travail ,the world of work ,voc
+552,le lieu du travail,the workplace,voc
+553,licencier ,to dismiss sb ,voc
+554,un ouvrier ,a blue-collar worker ,voc
+555,un employé de bureau,a white-collar worker ,voc
+556,un fonctionnaire ,a state employee or a civil servant,voc
+557,un employé de bureau,an employee ,voc
+558,un employeur ,an employer,voc
+559,un demandeur d'emploi ,a job-seeker,voc
+560,un CV ,a CV (curriculum vitae) ,voc
+561,les conditions de travail ,working conditions ,voc
+562,chômage ,unemployment ,voc
+563,un CDD / un CDI,a fixed-term contract / an open-ended contract ,voc
+564,la sécurité de l'emploi,job security ,voc
+565,embaucher ,to hire ,voc
+566,compétences ,skills ,voc
+567,un candidat à un poste ,an applicant ,voc
+568,paie ,pay ,voc
+569,prime ,bonus ,voc
+570,les 35 heures ,the 35-hour working week ,voc
+571,le fossé entre les hommes et les femmes ,gender gap ,voc
+572,les inégalités entre les hommes et les femmes ,gender inequalities ,voc
+573,un machiste ,a chauvinist ,voc
+574,une femme battue ,a battered woman ,voc
+575,violence conjugale ,domestic violence ,voc
+576,l'excision ,female circumcision ,voc
+577,une femme au foyer ,a housewife ,voc
+578,parité ,parity ,voc
+579,sous-représenté ,under-represented ,voc
+580,le harcèlement sexuel ,sexual harassment ,voc
+581,une chasse gardée pour les hommes ,a male preserve ,voc
+582,une femme qui fait carrière ,a career woman ,voc
+583,l'égalité des salaires,equal pay ,voc
+584,être victime de discrimination ,to be discriminated against ,voc
+585,un mariage forcé ,a forced marriage ,voc
+586,une dot ,a dowry ,voc
+587,prendre la pilule ,to be on the pill ,voc
+588,congé parental ,parental leave ,voc
+589,s'occuper de ses enfants ,to look after one's children ,voc
+590,faire le ménage ,to do the housework ,voc
+591,les tâches ménagères ,household chores ,voc
+592,école publique ,"public school, state school ",voc
+593,école privée ,fee-paying school ,voc
+594,un doctorat ,a PhD,voc
+595,le système éducatif ,the educational system ,voc
+596,un cours ,a class ,voc
+597,un camarade de class ,a classmate ,voc
+598,une bourse ,"a scholarship, a grant ",voc
+599,un programme ,a curriculum ,voc
+600,redoubler ,to repeat a class ,voc
+601,relever le niveau ,to raise standards ,voc
+602,abandonner ses études ,to drop out ,voc
+603,enseignement supérieur ,higher education ,voc
+604,un concours ,a competitive exam ,voc
+605,une note ,a mark ,voc
+606,obtenir son diplôme ,to graduate ,voc
+607,autodidacte ,self-educated,voc
+608,enseignement professionnel ,vocational education ,voc
+609,s'inscrire ,to enroll ,voc
+610,droits d'inscription ,fees ,voc
+611,un excellent élève ,a high-flyer,voc
+612,examen de fin d'étude,school-leaving exam,voc
+613,le pétrole ,oil,voc
+614,le gaz ,gas ,voc
+615,le charbon,coal ,voc
+616,une éolienne ,a wind turbine ,voc
+617,un panneau solaire ,a solar panel ,voc
+618,les bio-carburants ,biofuels,voc
+619,l'énergie nucléaire ,nuclear power ,voc
+620,une centrale nucléaire ,a power plant ,voc
+621,les déchets du nucléaire ,nuclear waste ,voc
+622,une voiture électrique ,an electric car ,voc
+623,le carburant,fuel,voc
+624,les réserves de pétrole ,oil supplies ,voc
+625,les besoins en énergie ,energy needs ,voc
+626,la pénurie d'énergie ,the energy shortage ,voc
+627,produire de l'électricité ,to generate electricity ,voc
+628,l'essence ,petrol ,voc
+629,l'enrichissement de l'uranium ,uranium enrichment ,voc
+630,sortir du nucléaire ,phase out nuclear energy ,voc
+631,atteindre la neutralité carbone ,reach net zero ,voc
+632,hydroélectricité ,hydroelectricity ,voc
+633,l'hydrofracturation ,fracking ,voc
+634,la faune / la flore ,fauna / flora ,voc
+635,une espèce en voie de disparition ,an endangered species,voc
+636,un écologiste ,an environmentalist ,voc
+637,un parc naturel ,a natural reserve ,voc
+638,mettre en danger ,to jeopardize ,voc
+639,rareté,scarcity ,voc
+640,les ressources naturelles ,natural resources ,voc
+641,les matières premières ,raw materials ,voc
+642,la surpêche ,overfishing ,voc
+643,une catastrophe naturelle ,a natural disaster ,voc
+644,faire des ravages ,to wreak havoc on ,voc
+645,la sécheresse ,drought ,voc
+646,souffrir de malnutrition ,to be malnourished ,voc
+647,une tempête ,a storm ,voc
+648,un tremblement de terre ,an earthquake ,voc
+649,la couche d'ozone ,ozone layer ,voc
+650,épuisement ,depletion ,voc
+651,une politique qui respecte l'environnement ,an environmentally-friendly policy ,voc
+652,Groupe d'experts intergouvernemental sur l'évolution du climat ,IPCC,voc
+653,nuire à l'environnement ,to harm the environment ,voc
+654,un ouragan ,a hurricane ,voc
+655,langue maternelle ,mother-tongue ,voc
+656,un pays anglophone ,an English-speaking country ,voc
+657,un anglophone ,a native English speaker ,voc
+658,la langue familière ,colloquial language ,voc
+659,l'argot ,slang ,voc
+660,l'anglais parlé ,spoken english ,voc
+661,une formule ,a catchphrase ,voc
+662,inventer un mot ,to coin a word,voc
+663,l'ortographe ,spelling ,voc
+664,le sens ,meaning ,voc
+665,dénué de sens ,meaningless,voc
+666,traduire ,to translate ,voc
+667,mal traduire qqc ,to mistranslate ,voc
+668,s'exprimer ,to express oneself ,voc
+669,être bilingue ,be fluent ,voc
+670,épeler un mot ,to spell a word ,voc
+671,c'est-à-dire ,that's to say ,voc
+672,une expression ,a phrase ,voc
+673,parler mal anglais ,to speak broken English ,voc
+674,mauvais anglais ,pidgin English ,voc
+675,le charabia ,globish ,voc
+676,mondialisation,globalization,voc
+677,l'économie mondiale ,the global economy ,voc
+678,une frontière ,a border,voc
+679,le commerce ,trade ,voc
+680,l'Organisation Mondiale du Commerce ,the World Trade Organization (WTO),voc
+681,libre-échange ,free trade ,voc
+682,l'économie de marché ,the free market ,voc
+683,libéralisme ,liberalism ,voc
+684,un partenaire commercial ,a trading partner ,voc
+685,taux de change ,exchange rate ,voc
+686,mesures protectionistes ,protectionist measures ,voc
+687,les droits de douane,customs duties ,voc
+688,le Tiers-Monde ,the Third World ,voc
+689,un pays émergent ,an emerging country ,voc
+690,le commerce équitable ,fair trade ,voc
+691,les délocalisations ,outsourcing ,voc
+692,la concurrence ,competition ,voc
+693,l'occidentalisation ,Westernalization ,voc
+694,l'altermondialisme ,alter-globalization ,voc
+695,la démondialisation ,deglobalization ,voc
+696,les PMA,least developed countries ,voc
+697,la santé,health,voc
+698,une maladie ,a disease ,voc
+699,contagieux ,contagious ,voc
+700,la peste ,plague ,voc
+701,la grippe ,flu ,voc
+702,le SIDA ,AIDS,voc
+703,séropositif ,HIV-positive ,voc
+704,prescrire ,to prescribe ,voc
+705,ordonnance ,a prescription ,voc
+706,le système immunitaire ,the immune system,voc
+707,se propager ,to spread ,voc
+708,tousser,to cough ,voc
+709,une épidémie ,an epidemic ,voc
+710,un généraliste ,a GP (general practitioner) ,voc
+711,un médicament ,"a drug, a medicine ",voc
+712,un antalgique ,a painkiller ,voc
+713,un effet secondaire ,a side effect ,voc
+714,un vaccin ,a vaccine ,voc
+715,guérison ,recovery ,voc
+716,le système de santé ,the health care system ,voc
+717,avoir de la fièvre ,to have a fever ,voc
+718,un étranger ,a foreigner ,voc
+719,un réfugié ,a refugee ,voc
+720,un nouvel arrivant ,a newcomer ,voc
+721,pays natal ,native country ,voc
+722,la politique migratoire ,immigration policy ,voc
+723,les flux migratoires ,migration flows ,voc
+724,les contrôles aux frontières ,border controls ,voc
+725,demander l'asile politique ,to seek political asylum ,voc
+726,expulser qqn ,to deport sb ,voc
+727,exploiter les travailleurs immigrés ,to exploit migrant workers ,voc
+728,un permis de travail ,a work permit ,voc
+729,freiner l'immigration ,to curb immigration ,voc
+730,les contrôles d'identité,identity checks ,voc
+731,passeport,passport ,voc
+732,immigration clandestine ,illegal immigration ,voc
+733,être refoulé à la frontière ,to be turned away at the border ,voc
+734,solde migratoire ,net migration ,voc
+735,s'expatrier ,to expatriate oneself ,voc
+736,un exilé ,an exile ,voc
+737,une carte de séjour ,a resident permit ,voc
+738,se faire neutraliser français ,to be granted French citizenship ,voc
+739,argent ,money ,voc
+740,richesse ,wealth ,voc
+741,PIB,GDP,voc
+742,le niveau de vie ,standard of living ,voc
+743,aisé ,well-off,voc
+744,l'impôt sur le revenu ,income tax,voc
+745,un contribuable ,a tax payer ,voc
+746,la pauvreté ,poverty ,voc
+747,la misère ,extreme poverty ,voc
+748,un ménage à revenu modeste ,a low-income household ,voc
+749,défavorisé ,underprivileged ,voc
+750,le fossé entre les riches et les pauvres ,the gap between rich and poor ,voc
+751,le fossé social ,the social divide ,voc
+752,faire fortune ,to strike gold ,voc
+753,partir de rien ,to start from scratch ,voc
+754,avoir du mal à payer les factures ,to have difficulty paying the bills ,voc
+755,joindre les deux bouts ,to make ends meet ,voc
+756,les gains ,earnings ,voc
+757,les plus démunis ,the most destitute ,voc
+758,vivre des allocations ,to live on the benefit ,voc
+759,la répartition de la richesse ,the distribution of wealth ,voc
+760,un brevet ,a patent ,voc
+761,un ingénieur ,an engineer ,voc
+762,concevoir ,to devise ,voc
+763,technologie ,technology ,voc
+764,un prototype ,a model ,voc
+765,un projet ,a blueprint ,voc
+766,innover ,to innovate ,voc
+767,être l'un des premiers à étudier qqc ,to pioneer the study of sth ,voc
+768,un moteur ,an engine ,voc
+769,faire fonctionner un système ,to operate a system ,voc
+770,dernier cri,state-of-the-art ,voc
+771,un appareil sans fil ,a wireless device ,voc
+772,un écran tactile ,a touch screen ,voc
+773,un capteur ,a censor ,voc
+774,un inventeur ,an inventor ,voc
+775,la robotique ,robotics ,voc
+776,l'électronique ,electronics ,voc
+777,un mécanisme ,a mechanism ,voc
+778,un technicien ,a technician ,voc
+779,un technopole ,a science park or a research park ,voc
+780,le génie civil ,civil engineering ,voc
+781,se battre ,to fight ,voc
+782,frapper qqn,to hit sb ,voc
+783,passer qqn à tabac ,to beat sb up ,voc
+784,violenece conjugale ,domestic violence ,voc
+785,la réglementation des armes à feu ,gun control ,voc
+786,menacer qqn ,to threaten sb ,voc
+787,intimider qqn ,to bully sb ,voc
+788,agresser qqn ,to mug sb,voc
+789,une arme de poing ,a handgun ,voc
+790,tirer ,to shoot ,voc
+791,abattre qqn ,to shoot sb dead,voc
+792,le lobby des armes à feu ,the gun lobby ,voc
+793,un fabriquant d'armes ,a gun manufacturer,voc
+794,interdire les armes à feu ,to outlaw / ban firearms ,voc
+795,un meurtrier ,a murderer ,voc
+796,viol ,rape,voc
+797,massacre,bloodshed,voc
+798,une blessure ,a wound ,voc
+799,porter une arme ,to bear a gun ,voc
+800,Association à but non lucratif défendant le droit de posséder une arme aux USA,The National Rifle Association of America ,voc
+801,Amendement qui autorise tout citoyen américain à posséder une arme ,The Second Amendment of the Constitution ,voc
+802,un scientifique ,a scientist ,voc
+803,prouvé scientifiquement ,scientifically proven ,voc
+804,les progrès scientifiques ,medical advances ,voc
+805,un physicien ,a physicist ,voc
+806,un chimiste ,a chemist ,voc
+807,un astronome ,an astronomer ,voc
+808,la connaissance ,knowledge ,voc
+809,théorique ,theorical ,voc
+810,une hypothèse ,a hypothesis ,voc
+811,des données ,data ,voc
+812,des preuves ,evidence ,voc
+813,contestable ,questionable ,voc
+814,la recherche de pointe ,cutting-edge research ,voc
+815,des recherches révolutionnaires ,groundbreaking research ,voc
+816,un universitaire ,an academic ,voc
+817,des conclusions ,findings ,voc
+818,une percée ,a breakthrough ,voc
+819,une expérience ,an experiment ,voc
+820,faire une expérience ,to conduct an experiment ,voc
+821,un cobaye ,a guinea pig ,voc
+822,recherche et développement ,research and development ,voc
+823,la foi ,faith ,voc
+824,une croyance ,a belief ,voc
+825,superstitieux ,superstitious ,voc
+826,aller à l'église ,to go to church ,voc
+827,assister à la messe ,to attend Mass,voc
+828,sacré ,sacred ,voc
+829,le bien et le mal ,good and evil ,voc
+830,un pécheur ,a sinner ,voc
+831,un pape ,a pope ,voc
+832,un ecclésiastique ,a cleric ,voc
+833,le foulard islamique ,the Islamic headscarf ,voc
+834,le judaïsme ,judaism ,voc
+835,liberté de culte ,freedom of worship ,voc
+836,la prière ,prayer ,voc
+837,un fanatique ,a fanatic ,voc
+838,intégriste ,fundamentalist ,voc
+839,profaner ,to desecrate ,voc
+840,un athée ,an atheist ,voc
+841,profaner ,to desecrate ,voc
+842,un non-croyant ,a nonbeliever ,voc
+843,laïc ,secular ,voc
+844,un tribunal ,a court ,voc
+845,une affaire ,a case ,voc
+846,un procès,a trial ,voc
+847,un indice ,a clue ,voc
+848,des preuves ,evidence ,voc
+849,un témoin ,a witness sth ,voc
+850,témoigner ,to testify ,voc
+851,une amende ,a fine ,voc
+852,acquitter ,to acquit ,voc
+853,condamner qqn ,to find sb guilty ,voc
+854,être jugé ,to be on trial ,voc
+855,un casier judiciaire ,a criminal record ,voc
+856,innocenter ,to exonerate sb ,voc
+857,faire appel d'une décision ,to appeal against ,voc
+858,appliquer la loi ,to enforce the law,voc
+859,être témoin de qqc ,to witness sth ,voc
+860,un accusé ,a defendant ,voc
+861,plaider ,to plead ,voc
+862,enfreindre la loi ,to break the law ,voc
+863,appliquer la loi ,to enforce the law ,voc
+864,poursuivre qqn en justice ,to sue ,voc
+865,une enquête ,an investigation ,voc
+866,faire un reportage sur ,to report on ,voc
+867,faire la critique ,to review,voc
+868,faire une étude ,to survey ,voc
+869,un reportage ,a scoop ,voc
+870,la couverture,coverage ,voc
+871,couvrir ,to cover,voc
+872,dévoiler,to uncover,voc
+873,divulguer ,to leak ,voc
+874,rédacteur en chef ,an editor ,voc
+875,publier ,to publish ,voc
+876,un kiosque à journaux ,a newstand ,voc
+877,un quotidien ,a daily ,voc
+878,un hebdomadaire,a weekly ,voc
+879,un torchon,a rag ,voc
+880,s'abonner à ,to subscribe ,voc
+881,les gros titres,the headlines ,voc
+882,les médias ,the media ,voc
+883,le journalisme à sensation ,tabloid journalism ,voc
+884,traquer ,to stalk ,voc
+885,les potins ,gossip ,voc
+886,diffamer ,to libel ,voc
+887,falsifier ,to tamper,voc
+888,un préjugé ,a prejudice ,voc
+889,la liberté de la presse ,press freedom ,voc
+890,étouffer qqc ,to stifle ,voc
+891,une contrefaçon ,a forgery ,voc
+892,une atteinte à la vie privée ,an infringement of privacy ,voc
+893,une question d'actualité ,a topical issue ,voc
+894,un envoyé spécial ,a special correspondent ,voc
+895,un réseau,a network ,voc
+896,les réseaux sociaux ,social media ,voc
+897,une série ,a series,voc
+898,captiver ,to engross,voc
+899,une tactique ,a gambit ,voc
+900,monter en flèche ,"to spike, to skyrocket",voc
+901,"faire une pierre, deux coups ",to kill two birds with one stone,voc
+902,faire les cents pas,to pace out ,voc
+903,faire irruption ,to burst in ,voc
+904,être en piteux état ,to be in a sorry state ,voc
+905,la bulle internet ,the dotcom boom ,voc
+906,rembourser un prêt ,to repay a loan ,voc
+0,être responsable de ,to be responsible for,gram
+1,d'un point de vue économique ,from an economical point of view,gram
+2,être conscient de ,to be conscious of,gram
+3,participer à ,to participate in,gram
+4,imposer qqc à qqn,to impose sth on sb ,gram
+5,être dans un train ,to be on a train ,gram
+6,accuser qqn de ,to accuse sb of sth ,gram
+7,marcher sous pluie ,to walk in the rain ,gram
+8,être scandalisé par ,to be outraged at/by,gram
+9,être satisfait de,to be satisfied with,gram
+10,penser à qqn ,to think on,gram
+11,être enceinte d'un enfant ,to be pregnant with a child ,gram
+12,avoir hâte de ,to look forward to doing sth,gram
+13,fournir qqc à qqn ,to provide sb with sth ,gram
+14,être assis en face de ,to sit opposite sb ,gram
+15,voler qqc à qqn ,to steal sth from sb ,gram
+16,être ravi de ,to be delighted on ,gram
+17,être accroc à ,to be hooked to ,gram
+18,profiter de qqc ,to enjoy sth / to take advantage of,gram
+19,être furieux de qqc,to be mad at,gram
+20,en avoir marre de ,to be sick and tired of ,gram
+21,en avoir marre de ,to be fed up with,gram
+22,prendre un médicament,to be on a medecine ,gram
+23,être surpris par ,to be surprised at,gram
+24,continuer qqc ,to go on with,gram
+25,au soleil ,in the sun ,gram
+26,être déçu de ,to be disappointed with,gram
+27,au rythme de la musique ,to the rythm ,gram
+28,manquer de qqc ,lack sth ,gram
+29,être habitué à qqc ,to be used doing sth ,gram
+30,attendre qqc ,to wait for sth ,gram
+31,discuter de qqc ,to discuss sth ,gram
+32,la même que ,the same as ,gram
+33,emprunter qqc à qqn ,to borrow sth from sb ,gram
+34,le plus riche du monde,the richest in the world ,gram
+35,être fou de qqc ,to be mad about sth ,gram
+36,se plaindre de qqc ,to complain about sth ,gram
+37,assister à qqc ,to attend sth ,gram
+38,être dégouté de ,to be disgusted with ,gram
+39,se rappeler de qqc ,to remind to do sth,gram
+40,être en jeu ,to be at stake ,gram
+41,peindre qqc en vert ,to paint sth green ,gram
+42,être entouré de ,to be surounded with,gram
+43,traiter de ,to deal with,gram
+44,espérer qqc ,to hope for,gram
+45,obéir à qqn ,to obey sb ,gram
+46,se faire opérer ,to be operated on,gram
+47,être gentil avec qqn,to be nice to sb,gram
+48,se marier avec qqn,to marry sb,gram
+49,travailler dans une ferme ,to work on a farm ,gram
+50,approuver ,to approve ,gram
+51,sur l'image,in the picture,gram
+52,parler de qqc à qqn ,to tell sb about sth ,gram
+53,face à un problème ,in the face of a problem ,gram
+54,être absorbé par ,to be engrossed in,gram
+55,écouter qqn ,listen to sb ,gram
+56,partir en voyage ,to go on a trip ,gram
+57,rappeler qqc à qqn ,remind sb of sth ,gram
+58,débattre de qqc ,debate sth ,gram
+59,à la TV,on TV,gram
+60,vivre au bord de mer,by the seaside ,gram
+61,vivre de qqc ,live on sth ,gram
+62,être perplexe devant qqc ,to be puzzled at sth ,gram
+63,dépendre de ,to depend on ,gram
+64,être indépendant de ,to be independant from ,gram
+65,entrer dans une pièce ,to enter a roam ,gram
+66,mettre le feu à qqc ,set fire to ,gram
+67,reprocher qqc à qqn ,to blame so for sth ,gram
+68,espionner qqn ,to spy on sb,gram
+69,,,gram
+70,verbe : ,verbal root / Preterit / Past participle ,gram
+71,survenir,arise arose arisen ,gram
+72,se réveiller ,awake awoke awoken ,gram
+73,porter ,bear bore borne ,gram
+74,battre ,beat beat beaten ,gram
+75,devenir,become became become ,gram
+76,commencer ,begin began begun ,gram
+77,plier ,bend bent bent ,gram
+78,parier ,bet bet bet ,gram
+79,offrir ,bid bid bid,gram
+80,mordre ,bite bit bitten ,gram
+81,saigner ,bleed bled bled ,gram
+82,souffler ,blow blew blown ,gram
+83,casser ,break broke broken ,gram
+84,apporter ,bring brought brought ,gram
+85,diffuser ,broadcast broadcast broadcast ,gram
+86,construire ,build built built ,gram
+87,brûler ,burn burnt burnt ,gram
+88,éclater ,burst burst burst ,gram
+89,acheter ,buy bought bought ,gram
+90,pouvoir ,can could could ,gram
+91,jeter ,cast cast cast ,gram
+92,attraper ,catch caught caught ,gram
+93,gronder ,chide chid chid ,gram
+94,choisir ,choose chose chosen ,gram
+95,s'accrocher ,cling clung clung ,gram
+96,venir ,come came come ,gram
+97,coûter ,cost cost cost ,gram
+98,ramper ,creep crept crept ,gram
+99,couper ,cut cut cut ,gram
+100,distribuer ,deal dealt dealt ,gram
+101,creuser ,dig dug dug ,gram
+102,faire ,do did done ,gram
+103,dessiner ,draw drew drawn ,gram
+104,rêver ,dream dreamt dreamt ,gram
+105,boire,drink drank drunk ,gram
+106,conduire,drive drove driven ,gram
+107,habiter ,dwell dwelt dwelt,gram
+108,manger ,eat ate eaten ,gram
+109,tomber ,fall fell fallen ,gram
+110,nourrir ,feed fed fed ,gram
+111,se sentir ,feel felt felt ,gram
+112,se battre ,fight fought fought ,gram
+113,trouver ,find found found ,gram
+114,s'enfuir ,flee fled fled ,gram
+115,lancer ,fling flung flung ,gram
+116,voler ,fly flew flown ,gram
+117,interdire ,forbid forbade forbidden ,gram
+118,prévoir ,forecast forecast forecast,gram
+119,presentir ,foresee foresaw forseen,gram
+120,oublier ,forget forgot forgotten,gram
+121,pardonner ,forgive forgave forgiven ,gram
+122,abandonner ,forsake forsook forsaken ,gram
+123,geler ,freeze froze frozen ,gram
+124,obtenir ,get got got ,gram
+125,donner ,give gave given ,gram
+126,aller ,go went gone ,gram
+127,moudre ,grind ground ground ,gram
+128,grandir ,grow grew grown ,gram
+129,tenir ,hang hung hung ,gram
+130,avoir ,have had had ,gram
+131,entendre,hear heard heard ,gram
+132,cacher ,hide hid hidden ,gram
+133,taper ,hit hit hit ,gram
+134,tenir ,hold held held ,gram
+135,blesser ,hurt hurt hurt ,gram
+136,garder,keep kept kept ,gram
+137,s'agenouiller,kneel knelt knelt ,gram
+138,connaître ,know knew known ,gram
+139,poser ,lay laid laid ,gram
+140,mener,lead led led ,gram
+141,s'incliner ,lean leant leant ,gram
+142,sauter ,leap leapt leapt ,gram
+143,apprendre ,learn learnt learnt ,gram
+144,laisser ,leave left left ,gram
+145,prêter ,lend lent lent ,gram
+146,permettre / louer ,let let let ,gram
+147,s'allonger ,lie lay lain ,gram
+148,allumer ,light lit lit ,gram
+149,perdre ,lose lost lost ,gram
+150,fabriquer ,make made made ,gram
+151,signifier ,mean meant meant ,gram
+152,rencontrer ,meet met met ,gram
+153,tondre ,mow mowed mowed ,gram
+154,compenser ,offset offset offset ,gram
+155,surmonter ,overcome overcame overcome ,gram
+156,prendre part à ,partake partook partaken ,gram
+157,payer ,pay paid paid ,gram
+158,supplier / plaider ,plead pled pled ,gram
+159,programmer ,preset preset preset ,gram
+160,prouver ,prove proved proved,gram
+161,mettre ,put put put ,gram
+162,quitter ,quit quit quit,gram
+163,lire ,read read read,gram
+164,déchirer ,rend rent rent ,gram
+165,débarrasser,rid rid rid ,gram
+166,sonner ,ring rang rung ,gram
+167,lever ,rise rose risen ,gram
+168,courir,run ran run ,gram
+169,scier,saw saw sawn ,gram
+170,dire,say said said ,gram
+171,voir,see saw seen ,gram
+172,chercher,seek sought sought ,gram
+173,vendre,sell sold sold ,gram
+174,envoyer,send sent sent ,gram
+175,fixer,set set set ,gram
+176,secouer,shake shook shaken ,gram
+177,répandre,shed shed shed ,gram
+178,briller,shine shone shone ,gram
+179,chausser,shoe shod shod ,gram
+180,tirer,shoot shot shot ,gram
+181,monter,show showed shown ,gram
+182,fermer,shut shut shut ,gram
+183,chanter,sing sang sung ,gram
+184,couler,sink sang sunk ,gram
+185,s'asseoir,sit sat sat ,gram
+186,dormir,sleep slept slept ,gram
+187,glisser,slide slid slid ,gram
+188,fendre,slit slit slit ,gram
+189,sentir,smell smelt smelt ,gram
+190,semer,sow sowed sown ,gram
+191,parler,speak spoke spoken ,gram
+192,aller vite,speed sped sped ,gram
+193,épeler,spell spelt spelt ,gram
+194,dépenser,spend spent spent ,gram
+195,renverser,spill spilt spilt ,gram
+196,tourner,spin spun spun ,gram
+197,cracher,spit spat spat ,gram
+198,fendre,slit split split ,gram
+199,gâcher,spoil spoilt spoilt ,gram
+200,répandre,spread spread spread,gram
+201,surgir,spring sprang sprung ,gram
+202,être debout,stand stood stood ,gram
+203,voler ,steal stole stolen ,gram
+204,coller,stick stuck stuck ,gram
+205,piquer,sting stung stung ,gram
+206,puer,stink stank stunk ,gram
+207,éparpiller,strew strewed strewed ,gram
+208,frapper,strike struck struck ,gram
+209,jurer,swear swore sworn ,gram
+210,suer,sweat sweat sweat ,gram
+211,balayer,sweep swept swept ,gram
+212,gonfler,swell swelled swollen ,gram
+213,nager,swim swam swum ,gram
+214,se balancer,swing swung swung ,gram
+215,prendre part à ,take took taken ,gram
+216,enseigner,teach taught taught ,gram
+217,déchirer ,tear tore torn ,gram
+218,dire / raconter,tell told told ,gram
+219,penser,think thought tought ,gram
+220,prospérer,thrive throve thriven ,gram
+221,jeter ,throw threw thrown ,gram
+222,enfoncer ,thrust thrust thrust,gram
+223,subir ,undergo underwent undergone ,gram
+224,comprendre,understand understood understood ,gram
+225,réveiller,wake woke woken ,gram
+226,pleurer,weep wept wept ,gram
+227,gagner ,win won won ,gram
+228,enrouler,wind wound wound ,gram
+229,se retirer,withdraw withdrew withdrawn ,gram
+230,écrire,write wrote written,gram
+231,,,gram
+232,nom dénombrable ,"utiliser few, a few, many, several ...",gram
+233,nom indénombrable,"utiliser little, a little, much ...",gram
+234,much,ne s'emploie que dans des questions ou des phrases négatives,gram
+235,every ,on l'utilise pour uniformiser et on le traduit par tous ,gram
+236,each ,on l'utilise pour particulariser ,gram
+237,"dozen, hundred, thousand, million ...",ne prennent pas la marque du pluriel quand ils sont employés comme adjectifs ,gram
+238,most + GN,la plupart de ,gram
+239,most of + particularisation ,donne une catégorie ,gram
+240,,,gram
+241,il est impossible de la convaincre de venir,there's no convincing her to come ,gram
+242,cela ne vaut pas la peine d'attendre ,it's no use waiting ,gram
+243,cela vaut la peine de voir ce film ,it's worth seeing this film ,gram
+244,ce film vaut la peine d'être vu,this film is worth seeing,gram
+245,,,gram
+246,prendre un café,have a coffee,gram
+247,boire un verre,have a drink ,gram
+248,prendre une douche ,have a shower ,gram
+249,faire une pause ,have a break ,gram
+250,faire un rêve,have a dream,gram
+251,faire un cauchemar,have a nightmare,gram
+252,nager ,have a swim ,gram
+253,essayer ,have a go ,gram
+254,se faire couper les cheveux ,have a haircut ,gram
+255,se disputer ,have an argument ,gram
+256,se faire avorter ,to have an abortion ,gram
+257,se faire opérer ,to have an operation,gram
+258,,,gram
+259,on utilisera make ,"make a cake, a reform, a choice, a decision, a mistake ...",gram
+260,on utilisera do ,"do homework, duty, damage ...",gram
+261,faire faire qqc par qqn ,have sth done or have sb do sth ,gram
+262,faire (contrainte),make sb do sth ,gram
+263,faire des études ,to study ,gram
+264,faire mal ,to hurt ,gram
+265,faire semblant ,to pretend ,gram
+266,faire penser à ,to remind ,gram
+267,faire entrer qqn ,show sb in ,gram
+268,faire pousser une barbe ,to grow a beard ,gram
+269,faire couler un bain,to run a bath,gram
+270,,,gram
+271,grand ,tall taller the tallest ,gram
+272,intelligent ,clever cleverer the cleverest ,gram
+273,fin ,thin thinner the thinnest ,gram
+274,drôle ,funny funnier the funniest ,gram
+275,mauvais,(bad) ill worse the worst ,gram
+276,bon ,(good) well better the best ,gram
+277,loin,far farther/further the farthest/ the furthest,gram
+278,vieux ,old elder/older the eldest/ the oldest ,gram
+279,"avec des adjectifs courts, employez : ",not so / as long as au lieu de ,gram
+280,transformez : the least big ,par : the smallest,gram
+281,transformez : the least rich ,par : the poorest ,gram
+282,un assez bon film ,quite a good film ,gram
+283,,,gram
+284,manquer une occasion,miss,gram
+285,manquer de qqc ,to lack sth ,gram
+286,manquer de ressources ,to run out (of),gram
+287,tu me manques ,I miss you ,gram
+288,manquer avec une négation ,to fail ,gram
+289,,,gram
+290,le motif ,the reason for ,gram
+291,la demande de ,the demand for ,gram
+292,la nécessité de ,the need for ,gram
+293,respect pour ,respect for ,gram
+294,une chute ,a fall in ,gram
+295,une baisse de ,a drop in ,gram
+296,un déclin de ,a decline in ,gram
+297,une hausse de ,a rise in ,gram
+298,une augmentation dans,an increase in ,gram
+299,in intérêt pour ,an interest in ,gram
+300,une solution pour ,a solution to ,gram
+301,la clé de ,the key to ,gram
+302,une menace pour ,a threat to ,gram
+303,à bannir de ,to ban from ,gram
+304,à dissuader de ,to deter from ,gram
+305,suspect de ,suspect of ,gram
+306,accusé de ,accuse of ,gram
+307,critiquer pour ,criticize for ,gram
+308,convaincre quelqu'un de,talk sb into ,gram
+309,pour sauver de ,to save from,gram
