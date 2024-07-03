@@ -1,6 +1,8 @@
 # flashcards
 A repository that contains flashcards to practice for the TOEFL exam.
 
+![Exemple](https://github.com/AugustinCablant/flashcards/blob/main/ex.png)
+
 ## Features
 
 - **Card Types:** Users can choose between vocabulary (voc) and grammar (gram) flashcards.
