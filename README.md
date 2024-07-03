@@ -13,19 +13,18 @@ A repository that contains flashcards to practice for the TOEFL exam.
 
 1. **Clone the repository:**
    - Clone your GitHub repository locally to get started. Use the `git clone` command followed by your repository's URL.
-  
-   ### Installation
 
-a. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AugustinCablant/flashcards.git
-   cd main
 
-b. **Install dependencies**
-   pip install -r requirements.txt
-
-c. **Run the application**
-   python main.py
+      a. **Clone the repository:**
+         ```bash
+         git clone https://github.com/AugustinCablant/flashcards.git
+         cd main
+      
+      b. **Install dependencies**
+         pip install -r requirements.txt
+      
+      c. **Run the application**
+         python main.py
 
 
 2. **Usage:**
